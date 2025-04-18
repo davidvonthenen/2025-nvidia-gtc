@@ -1,0 +1,1 @@
+python main-whole-body.py --confidence 0.9 --camera true
